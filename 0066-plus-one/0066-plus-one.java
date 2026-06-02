@@ -12,3 +12,6 @@ class Solution {
         return newArray;
     }
 }
+
+//TC ->O(n)
+//SC ->O(1) in most cases and O(n) when the all digits are 9 and new array is created
