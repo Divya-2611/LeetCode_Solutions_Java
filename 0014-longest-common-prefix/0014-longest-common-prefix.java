@@ -10,3 +10,7 @@ class Solution {
         
     }
 }
+
+// TC ->O(nlogn)  bcz of sorting inbuilt method (internally quick sort use hota)
+// SC ->O(1) 
+// Approach -> Sort string array and compare first and last element
