@@ -14,3 +14,6 @@ class Solution {
         
     }
 }
+// TC ->O(1)
+// SC -> O(1)
+// approach ->we have to put the value of node.next into node and delete that node.next
