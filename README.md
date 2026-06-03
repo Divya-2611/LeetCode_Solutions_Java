@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0066-plus-one) |
 ## Trie
 |  |
@@ -47,8 +48,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
