@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0066-plus-one) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0066-plus-one) |
 ## Linked List
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0867-transpose-matrix) |
