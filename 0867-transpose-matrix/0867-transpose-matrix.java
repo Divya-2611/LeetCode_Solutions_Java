@@ -12,3 +12,4 @@ class Solution {
         
     }
 }
+//Transpose means converting rows into column
