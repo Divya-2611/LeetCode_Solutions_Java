@@ -23,3 +23,4 @@ public class Solution {
         
     }
 }
+//Approach->chech condition whether slow and fast are equal or not
