@@ -9,7 +9,7 @@
  * }
  */
 
- //Approach -> Find out middle of linked list and reverse that portion and check value but in this approach we are modifing pur LL
+ //Approach -> Find out middle of linked list and reverse that portion and check value but in this approach we are modifing pur LL alternate is using stack but it will change SC from O(1) to O(n)
 class Solution {
     public boolean isPalindrome(ListNode head) {
       //Find middle of linked list
