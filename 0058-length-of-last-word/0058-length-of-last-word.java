@@ -1,8 +1,10 @@
 class Solution {
     public int lengthOfLastWord(String s) {
-        s=s.trim();
+        int k=s.length()-1;
+        while(k>=0 && s.charAt(k)==' ')
+          k--;
         int length=0;
-        for(int i=s.length()-1;i>=0;i--){
+        for(int i=k;i>=0;i--){
             if(s.charAt(i)!= ' ') length++;
             else break;
         }
