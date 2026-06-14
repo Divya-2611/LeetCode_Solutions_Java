@@ -8,7 +8,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
- // Deee there is also one approach that we have use in palindrome linkedlist i.e. reverse half of ll 
+ // Deee there is also one approach that we have use in palindrome linkedlist i.e. reverse half of ll it will change SC from O(1) to O(n).
 class Solution {
     public int pairSum(ListNode head) {
         Stack<Integer> st=new Stack<>();
