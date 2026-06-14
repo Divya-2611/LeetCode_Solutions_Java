@@ -8,6 +8,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+ // Deee there is also one approach that we have use in palindrome linkedlist i.e. reverse half of ll 
 class Solution {
     public int pairSum(ListNode head) {
         Stack<Integer> st=new Stack<>();
