@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0136-single-number) |
 | [0867-transpose-matrix](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0867-transpose-matrix) |
 ## Trie
 |  |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Divya-2611/LeetCode_Solutions_Java/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
